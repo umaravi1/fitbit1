@@ -1,2 +1,2 @@
-# fitbit1
+# Fitbit
 This is a testing project

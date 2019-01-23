@@ -1,2 +1,2 @@
 # fitbit1
-testing project
+This is a testing project
